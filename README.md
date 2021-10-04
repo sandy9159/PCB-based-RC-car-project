@@ -1,5 +1,5 @@
 # Arduino-based-Multi-function-robotic-car
-![maxresdefault](https://user-images.githubusercontent.com/19898602/122674977-11c13700-d1f5-11eb-9ea1-6fc5eb7b9c66.jpg)
+![image](https://user-images.githubusercontent.com/19898602/135789633-ed66b899-1676-42b5-8b1e-4739b9391dc4.png)
 
 This is a Multifunction mobile operated arduino based robotic car
 
