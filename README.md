@@ -1,7 +1,5 @@
-# PCB-based-RC-car-project
-
 # Arduino-based-Multi-function-robotic-car
-![image](https://user-images.githubusercontent.com/19898602/135789316-ccab9cfb-d3bd-46f7-899a-177128b33811.png)
+![maxresdefault](https://user-images.githubusercontent.com/19898602/122674977-11c13700-d1f5-11eb-9ea1-6fc5eb7b9c66.jpg)
 
 This is a Multifunction mobile operated arduino based robotic car
 
@@ -137,6 +135,5 @@ this was so much help full for me it save my lots of time and money by using PCB
 JLCPCB have some Special offer: $2 for 1-4 Layer PCBs, free SMT assembly monthly
  
 
-![Arduino remote control and OTA via ESP8266 and Vcon io_1](https://user-images.githubusercontent.com/19898602/135789233-7abf24f3-8406-4b4d-8506-97175940cc76.gif)
 
 
